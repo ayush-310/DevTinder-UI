@@ -1,6 +1,6 @@
 # DevTinder
 
-- Backend : https://github.com/ayush-310/devTinder
+- Backend : https://github.com/ayush-310/devTinder-backend
 - Create a Vite + React application
 - Remove unnecessary code and create a Hello World App
 - Install Tailwind CSS
